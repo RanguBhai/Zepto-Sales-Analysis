@@ -1,0 +1,102 @@
+product_id,product_name,category,price
+P0001,Wheat Flour,Groceries,326.92
+P0002,Rice,Groceries,32.01
+P0003,Salt,Groceries,152.01
+P0004,Sugar,Groceries,127.14
+P0005,Tur Dal,Groceries,373.51
+P0006,Moong Dal,Groceries,344.82
+P0007,Chana Dal,Groceries,448.25
+P0008,Tea Powder,Groceries,61.73
+P0009,Coffee Powder,Groceries,222.52
+P0010,Cooking Oil,Groceries,34.3
+P0011,Mustard Oil,Groceries,124.95
+P0012,Sunflower Oil,Groceries,262.57
+P0013,Jeera,Groceries,32.74
+P0014,Turmeric Powder,Groceries,115.44
+P0015,Chilli Powder,Groceries,331.94
+P0016,Coriander Powder,Groceries,281.57
+P0017,Garam Masala,Groceries,125.81
+P0018,Pepper,Groceries,302.85
+P0019,Orange Juice,Beverages,408.53
+P0020,Apple Juice,Beverages,23.12
+P0021,Lemon Juice,Beverages,406.79
+P0022,Fanta,Beverages,355.11
+P0023,Sprite,Beverages,183.32
+P0024,Maaza,Beverages,94.63
+P0025,Mirinda,Beverages,479.46
+P0026,Pepsi,Beverages,181.57
+P0027,Coca Cola,Beverages,64.52
+P0028,Thums Up,Beverages,66.42
+P0029,Chips,Snacks,426.8
+P0030,Namkeen,Snacks,309.79
+P0031,Biscuits,Snacks,407.42
+P0032,Mixture,Snacks,370.27
+P0033,Popcorn,Snacks,277.39
+P0034,Salted Peanuts,Snacks,487.1
+P0035,Murukku,Snacks,201.7
+P0036,Chakli,Snacks,284.98
+P0037,Khakra,Snacks,418.11
+P0038,Bhujia,Snacks,316.89
+P0039,Milk,Dairy,433.62
+P0040,Butter,Dairy,297.13
+P0041,Curd,Dairy,358.19
+P0042,Ghee,Dairy,42
+P0043,Paneer,Dairy,129.39
+P0044,Buttermilk,Dairy,158.91
+P0045,Cheese,Dairy,58.3
+P0046,Yogurt,Dairy,131.74
+P0047,Cream,Dairy,68.48
+P0048,Toothpaste,Personal Care,153.43
+P0049,Toothbrush,Personal Care,325.13
+P0050,Shampoo,Personal Care,195.12
+P0051,Hair Oil,Personal Care,197.69
+P0052,Face Wash,Personal Care,120.56
+P0053,Body Lotion,Personal Care,148.15
+P0054,Soap,Personal Care,469.59
+P0055,Face Cream,Personal Care,331.06
+P0056,Talcum Powder,Personal Care,312.38
+P0057,Floor Cleaner,Home Care,102.15
+P0058,Dish Cleaner,Home Care,369.98
+P0059,Room Freshener,Home Care,98.43
+P0060,Bulb,Home Care,202.14
+P0061,Mop,Home Care,494.97
+P0062,Detergent Powder,Home Care,327.2
+P0063,Toilet Cleaner,Home Care,287.34
+P0064,Matchbox,Home Care,348.61
+P0065,Bread,Bakery,424.57
+P0066,Buns,Bakery,392.48
+P0067,Cookies,Bakery,129.94
+P0068,Rusk,Bakery,35.41
+P0069,Cakes,Bakery,171.42
+P0070,Pastries,Bakery,148.52
+P0071,Donuts,Bakery,121.27
+P0072,Mango,Fruits,472.6
+P0073,Banana,Fruits,440.66
+P0074,Apple,Fruits,171.05
+P0075,Orange,Fruits,334.61
+P0076,Papaya,Fruits,209.9
+P0077,Pineapple,Fruits,458.98
+P0078,Watermelon,Fruits,240.25
+P0079,Guava,Fruits,147.14
+P0080,Pomegranate,Fruits,138.38
+P0081,Potato,Vegetables,289.46
+P0082,Onion,Vegetables,146.12
+P0083,Tomato,Vegetables,300.6
+P0084,Carrot,Vegetables,450.95
+P0085,Cauliflower,Vegetables,211.71
+P0086,Cabbage,Vegetables,125.27
+P0087,Beans,Vegetables,498.82
+P0088,Brinjal,Vegetables,264.57
+P0089,Spinach,Vegetables,63.64
+P0090,Chicken,Meat & Seafood,42.62
+P0091,Mutton,Meat & Seafood,72.63
+P0092,Eggs,Meat & Seafood,321.17
+P0093,Fish,Meat & Seafood,400.2
+P0094,Prawns,Meat & Seafood,222.64
+P0095,Crab,Meat & Seafood,50.49
+P0096,Diapers,Baby Care,203.18
+P0097,Baby Lotion,Baby Care,498.14
+P0098,Baby Soap,Baby Care,273.97
+P0099,Baby Powder,Baby Care,486.12
+P0100,Baby Shampoo,Baby Care,433.17
+P0101,Baby Wipes,Baby Care,25.51
