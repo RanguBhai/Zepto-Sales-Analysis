@@ -34,9 +34,8 @@ This project analyzes Zepto's fictional sales data from **January 2022 to Decemb
 
 ## 📊 Dashboard Previews
 
-> *(Add screenshots or GIF previews here of your Excel & Power BI dashboards)*
 ![Screenshot 2025-04-25 210459](https://github.com/user-attachments/assets/ae5f7214-a469-4d2a-a79b-83ef2f9b4a42)
-> ![Screenshot 2025-04-25 140122](https://github.com/user-attachments/assets/3f761748-fa4c-4264-8461-234e5dc1caae)
+ ![Screenshot 2025-04-25 140122](https://github.com/user-attachments/assets/3f761748-fa4c-4264-8461-234e5dc1caae)
 
 
 ---
@@ -73,7 +72,7 @@ This project analyzes Zepto's fictional sales data from **January 2022 to Decemb
 
 | File Name                          | Description                            |
 |-----------------------------------|----------------------------------------|
-| `Zepto_Sales_Data.csv`            | Clean dataset used across tools        |
+| `Zepto_Datasets`                  | Clean dataset used across tools        |
 | `Zepto_MySQL_Scripts.sql`         | All SQL queries for analysis           |
 | `Zepto_Sales_Excel_Dashboard.xlsx`| Final Excel dashboard file             |
 | `Zepto_Sales_PowerBI.pbix`        | Power BI project file with visuals     |
