@@ -17,7 +17,7 @@ Comprehensive sales and customer behavior analysis project for Zepto using Excel
 
 This project analyzes Zepto's fictional sales data from **January 2022 to December 2024** using:
 - **MySQL** for querying and segmenting customers
-- **Excel** for dynamic dashboards and drillthrough reports
+- **Excel** for Cleansing Data, analyis and dashboard reports
 - **Power BI** for visual storytelling and advanced DAX
 
 ---
@@ -27,14 +27,17 @@ This project analyzes Zepto's fictional sales data from **January 2022 to Decemb
 | Tool       | Use Case                                      |
 |------------|-----------------------------------------------|
 | **MySQL**  | Data Cleaning, RFM Analysis, Cohorts, Queries |
-| **Excel**  | PivotTables, Slicers, KPI Cards, Drillthrough |
-| **Power BI** | DAX Calculations, Visual Reports, Slicers     |
+| **Excel**  | PivotTables, Slicers, KPI Cards               |
+| **Power BI** | DAX Calculations, Visual Reports, Slicers   |
 
 ---
 
 ## 📊 Dashboard Previews
 
 > *(Add screenshots or GIF previews here of your Excel & Power BI dashboards)*
+![Screenshot 2025-04-25 210459](https://github.com/user-attachments/assets/ae5f7214-a469-4d2a-a79b-83ef2f9b4a42)
+> ![Screenshot 2025-04-25 140122](https://github.com/user-attachments/assets/3f761748-fa4c-4264-8461-234e5dc1caae)
+
 
 ---
 
@@ -56,8 +59,7 @@ This project analyzes Zepto's fictional sales data from **January 2022 to Decemb
 
 ### ✅ Excel
 - Dynamic dashboard with slicers & KPI cards
-- Drillthrough effect using navigation buttons
-- Conditional formatting and responsive visuals
+
 
 ### ✅ Power BI
 - DAX for YTD, YoY, MTD, QTD, Previous Year Sales
